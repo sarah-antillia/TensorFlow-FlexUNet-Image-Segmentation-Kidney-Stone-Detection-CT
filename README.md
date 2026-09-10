@@ -127,6 +127,7 @@ because it is an image classification dataset.<br>
     │   └─Stone
     │     
     └─Original Dataset
+        ├─Non-Stone
         │   ├─0.jpg
 ...
         │   └─nnnn.jpg
