@@ -130,7 +130,7 @@ because it is an image classification dataset.<br>
         │   ├─0.jpg
 ...
         │   └─nnnn.jpg
-         
+        │
         └─Stone
              ├─0.jpg
 ...
